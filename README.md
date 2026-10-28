@@ -1,28 +1,28 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Adriel
+# 👋 Olá! Sou o Adriel
 
-**Game Developer | 22 años**
+**Game Developer | 22 anos**
 
-<!-- Reemplaza el enlace de la imagen por la URL de tu GIF subido a GitHub -->
-<img src="https://media.giphy.com/media/L3Y45TZ23D68m9M591/giphy.gif" alt="Super Metroid Pixel Art Loop" width="400"/>
+<!-- Substitui "./samus.gif" pelo caminho ou link válido do teu GIF -->
+<img src="./samus.gif" alt="Super Metroid Pixel Art Loop" width="400"/>
 
-*Desarrollando mundos, programando mecánicas e independizando ideas.*
-
----
-
-### 🕹️ Sobre mí
-
-* 🚀 **Especialidad:** Desarrollo de juegos indie, diseño de niveles y mecánicas de juego.
-* 👾 **Pasión:** Juegos retro, Metroidvanias, estética Pixel Art y simulación táctica.
-* 🛠️ **Tech Stack:** Godot Engine, GDScript, C#, Pixel Art & Modelado 3D.
+*A desenvolver mundos, a programar mecânicas e a criar experiências indie.*
 
 ---
 
-### 🌐 Redes y Contacto
+### 🕹️ Sobre mim
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=godotengine&logoColor=white)](#)
+- 🚀 **Especialidade:** Desenvolvimento de jogos indie, design de níveis e mecânicas de jogo.
+- 👾 **Paixão:** Jogos retro, Metroidvanias, estética Pixel Art e simulação táctica.
+- 🛠️ **Tech Stack:** Godot Engine, GDScript, C#, Pixel Art & Modelação 3D.
+
+---
+
+### 🌐 Redes e Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/te_u_github)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=godotengine&logoColor=white)](https://te_u_portfolio)
 
 </div>
