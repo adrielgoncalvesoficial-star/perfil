@@ -4,7 +4,7 @@
 
 **Game Developer | 22 years old**
 
-![Super Metroid GIF](https://media.giphy.com/media/L3Y45TZ23D68m9M591/giphy.gif)
+![Super Metroid GIF](https://www.pinterest.com/pin/27514247709522925/)
 
 *Building worlds, coding mechanics, and crafting immersive indie gaming experiences.*
 
